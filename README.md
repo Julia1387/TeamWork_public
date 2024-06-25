@@ -1,2 +1,2 @@
 # TeamWork_public
-- Andrei Bakhtinov
+- Yuliia Pasichnyk
